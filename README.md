@@ -3,7 +3,7 @@
 Heavybit's accelerator educates Series Seed and Series A founders of developer and enterprise product companies. Specifically, we teach them about scaling their product, team, marketing, and sales operations, and generally improving their overall go-to-market. If you're interested in submitting a guest post to our blog, visit [Heavybit's Contributor Page](https://www.heavybit.com/library/contributor-program/)
 
 ## Topics We Accept
-Content we accept is educational, actionable, inclusive, based on real experience and is stage-appropriate to Heavybit's Seed to Series B developer company founder audience. This includes: 
+Content we accept is educational, actionable, inclusive, based on real experience, and is stage-appropriate to Heavybit's Seed to Series B developer company founder audience. This includes: 
 
 * User Onboarding & Product: Product Launches, DX, documentation, API design, user engagement, empty states etc.
 * Pricing: Rollouts, tiered and metered pricing, value-based pricing, general packaging, commercial strategies for open source
@@ -19,6 +19,9 @@ Content we accept is educational, actionable, inclusive, based on real experienc
 * Opinion editorial related to developer and enterprise startups
 * Q&A interviews with well-known industry founders or experts
 * Event wrap-ups
+
+## We Reserve the Right to Edit or Refuse Submissions
+Note: While we appreciate the offer to contribute to Heavybit, we also reserve the right to refuse submissions. In some cases, suggested topics are inappropriate to our stage of company, or a topic has been presented in the past. We do not accept product pitches, breaking news, pieces targeted at a specific individual or hyper-specific situation, or anything counter to our ,[Code of Conduct](https://github.com/heavybit/conduct). We reserve the right to edit submissions based on our [content and fact checking policy](https://github.com/heavybit/content-and-fact-checking-policy).
 
 ## Distribution
 * All submitted content will be shared to the Heavybit community through social channels, our newsletters, our Slack teams, and as direct reference materials to accelerator companies and prospects
