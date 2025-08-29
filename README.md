@@ -1,14 +1,14 @@
 # Heavybit's Writing Guide
 
-Heavybit's accelerator educates Series Seed and Series A founders of developer and enterprise product companies. Specifically, we teach them about scaling their product, team, marketing, and sales operations, and generally improving their overall go-to-market. If you're interested in submitting a guest post to our blog, visit [Heavybit's Contributor Page](https://www.heavybit.com/library/contributor-program/)
+Heavybit educates early-stage founders of enterprise infrastructure product companies. Specifically, we teach them about scaling their product, team, marketing, sales operations, and generally improving their overall go-to-market. If you're interested in submitting a guest post to our blog, visit [Heavybit's Contributor Page](https://www.heavybit.com/library/contributor-program/)
 
 ## Topics We Accept
-Content we accept is educational, actionable, inclusive, based on real experience, and is stage-appropriate to Heavybit's Seed to Series B developer company founder audience. This includes: 
+Content we accept is educational, actionable, inclusive, based on real experience, and is stage-appropriate to Heavybit's Pre-Seed to Series B devtool and infrastructure founder audience. This includes: 
 
 * User Onboarding & Product: Product Launches, DX, documentation, API design, user engagement, empty states etc.
 * Pricing: Rollouts, tiered and metered pricing, value-based pricing, general packaging, commercial strategies for open source
 * User Acquisition: Evangelism,  Content Marketing, Events
-* Enterprise Product : API Management, Security, Data Management, SLAs, Governance, Performance, Architecture Trends
+* Enterprise Product: API Management, Security, Data Management, SLAs, Governance, Performance, Architecture Trends
 * Enterprise Marketing & Sales: GTM Ops, Demand Gen, Lead Gen, nurturing, SEM/SEO, technical sales compensation, articles written from the perspective of a first TAM, SDR, SE.
 * General Management, Hiring and People Ops as they concern devops, developer and enterprise companies
 
@@ -30,7 +30,7 @@ Note: While we appreciate the offer to contribute to Heavybit, we also reserve t
 
 # General Deliverables 
 * Length: We accept posts that range from 500 to 2,000 words.
-  * Longer blog posts allow for more examples, indepth analysis, and are more likely to be syndicated by developer media outlets
+  * Longer blog posts allow for more examples, in-depth analysis, and are more likely to be syndicated by technical communities and media outlets
 * Citations, Links, and Relationships: Where applicable, add links to existing Heavybit content, 3rd party sources, evidence, and reports to strengthen your post. We reserve the right to add rel=”nofollow” to any link or remove a link attached to words or images before or after publication. Do not link to any questionable sources such as pharmaceutical companies, casinos, payday loans, or pornography. Buying, selling, or trading links that appear in posts is strictly prohibited.
 
 # Style Guide
